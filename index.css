@@ -1,0 +1,83 @@
+body {
+	
+	background-image: url(rose2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 3000px;
+
+}
+
+dl > dt > h1a {
+	color: red;
+}
+
+dl{
+	color: pink; 
+	text-align: center;
+}
+
+.historyH {
+	text-align: center;
+	color: greenyellow;
+}
+
+.history{
+	text-align: center;
+	color: yellow;
+}
+
+#type{
+	color: lightyellow;
+	text-align: center;
+}
+
+#list{
+	color: pink;
+    display: flex;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+    border: red;
+    position: center;
+
+}
+.nun{
+	padding: 5px;
+	margin: 10px;
+}
+
+.center{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: hotpink;
+	opacity: 0.6;
+	
+
+}
+.h2{
+	color: cyan;
+}
+
+td{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	
+
+}
+
+/*form*/
+.form{
+	text-align: center;
+}
+
+input[type="text"], textarea{
+	opacity: 0.3;
+	width: 300px;
+}
+label{
+	color: cyan;
+	opacity: 0.5;
+}

@@ -1,0 +1,13 @@
+body{
+	background-image: url(centifoliaroses.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 1000px;
+}
+
+h1,p {
+	text-align: center;
+	color: brown;
+}
